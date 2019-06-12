@@ -13,10 +13,10 @@ So I tried to learn how to swim before jumping into the water. Based on Hair et 
 
 Despite the strange names I gave to the chapters, what we are doing in this kernel is something like:
 
-    Understand the problem. We'll look at each variable and do a philosophical analysis about their meaning and importance for this problem.
-    Univariable study. We'll just focus on the dependent variable ('SalePrice') and try to know a little bit more about it.
-    Multivariate study. We'll try to understand how the dependent variable and independent variables relate.
-    Basic cleaning. We'll clean the dataset and handle the missing data, outliers and categorical variables.
-    Test assumptions. We'll check if our data meets the assumptions required by most multivariate techniques.
+ Understand the problem. We'll look at each variable and do a philosophical analysis about their meaning and importance for this problem.
+ Univariable study. We'll just focus on the dependent variable ('SalePrice') and try to know a little bit more about it.
+ Multivariate study. We'll try to understand how the dependent variable and independent variables relate.
+ Basic cleaning. We'll clean the dataset and handle the missing data, outliers and categorical variables.
+ Test assumptions. We'll check if our data meets the assumptions required by most multivariate techniques.
 
 Now, it's time to have fun!
