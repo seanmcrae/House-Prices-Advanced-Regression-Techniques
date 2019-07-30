@@ -7,7 +7,8 @@ COMPREHENSIVE DATA EXPLORATION WITH PYTHON
 
 This quote belongs to Thales of Miletus. Thales was a Greek/Phonecian philosopher, mathematician and astronomer, which is recognised as the first individual in Western civilisation known to have entertained and engaged in scientific thought (source: https://en.wikipedia.org/wiki/Thales)
 
-I wouldn't say that knowing your data is the most difficult thing in data science, but it is time-consuming. Therefore, it's easy to overlook this initial step and jump too soon into the water.
+I wouldn't say that knowing your data is the most difficult thing in data science, but it is time-consuming. 
+Therefore, it's easy to overlook this initial step and jump too soon into the water.
 
 So I tried to learn how to swim before jumping into the water. Based on Hair et al. (2013), chapter 'Examining your data', I did my best to follow a comprehensive, but not exhaustive, analysis of the data. I'm far from reporting a rigorous study in this kernel, but I hope that it can be useful for the community, so I'm sharing how I applied some of those data analysis principles to this problem.
 
@@ -19,4 +20,3 @@ Despite the strange names I gave to the chapters, what we are doing in this kern
  Basic cleaning. We'll clean the dataset and handle the missing data, outliers and categorical variables.
  Test assumptions. We'll check if our data meets the assumptions required by most multivariate techniques.
 
-Now, it's time to have fun!
