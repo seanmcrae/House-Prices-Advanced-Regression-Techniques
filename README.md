@@ -1,9 +1,6 @@
 # House-Prices-Advanced-Regression-Techniques
 COMPREHENSIVE DATA EXPLORATION WITH PYTHON
 
- 
-
-# 'The most difficult thing in life is to know yourself'
 
 This quote belongs to Thales of Miletus. Thales was a Greek/Phonecian philosopher, mathematician and astronomer, which is recognised as the first individual in Western civilisation known to have entertained and engaged in scientific thought (source: https://en.wikipedia.org/wiki/Thales)
 
